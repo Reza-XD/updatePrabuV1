@@ -22,7 +22,7 @@
 - `rm -rf updatePrabuV1`
 - `git clone https://github.com/Reza-XD/updatePrabuV1`
 - `cd updatePrabuV1`
-- `python lrxqFb.py`
+- `python SsFb.py`
      
 
  ```This Tools is Free Enjoy ```</br>
